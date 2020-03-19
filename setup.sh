@@ -24,3 +24,7 @@ sudo add-apt-repository ppa:noobslab/icons
 sudo apt-get update
 sudo apt-get install arc-theme
 sudo apt-get install arc-icons
+
+# GitHub
+# Generate new personal token: https://github.com/settings/tokens
+# Store credentials: https://help.github.com/en/github/using-git/caching-your-github-password-in-git
