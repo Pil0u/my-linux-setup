@@ -1,7 +1,7 @@
 # Go there and install the fonts: https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k
 
 # Utilities
-sudo apt install git curl zsh gnome-tweaks
+sudo apt install git curl zsh gnome-tweaks ffmpeg
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
 
